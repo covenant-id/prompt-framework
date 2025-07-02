@@ -33,6 +33,8 @@ prompts/                    ← Root folder for prompt modules
 ├── sentiment/              ← 20 meta‑prompts for sentiment classification
 └── social_media/           ← 20 meta‑prompts for content generation
 
+<coming soon: cli version>
+
 cli/                        ← CLI and module source code
 ├── prompt_framework/       ← Python package
 │   ├── __init__.py
@@ -66,7 +68,7 @@ cd prompt‑framework
 - gain access to the framework and start experimenting and tweaking
 ```
 
-## CLI tool will be available soon and can e used to generate random meta prompts
+## CLI tool will be available soon and can be used to generate random meta prompts
 
 ## Customization & Best Practices
 
